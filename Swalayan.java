@@ -6,9 +6,9 @@ public class Swalayan {
 
     // Array untuk menyimpan data pelanggan
     private static Pelanggan[] pelanggan = {
-            new Pelanggan("Puja", 100000, "38123", "1111"),
-            new Pelanggan("Ajes", 200000, "56123", "2222"),
-            new Pelanggan("Rajistha", 300000, "74123", "3333")
+            new Pelanggan("Puja", 100000, "3812345678", "1111"),
+            new Pelanggan("Ajes", 200000, "5612345678", "2222"),
+            new Pelanggan("Rajistha", 300000, "7412345678", "3333")
     };
 
     public static void main(String[] args) {
